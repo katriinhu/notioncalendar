@@ -1,15 +1,17 @@
+html {
+    padding: 0;
+   margin: 0;
+}
+
+
 body {
     font-family: 'Arial', sans-serif;
     background-color: #fff;
   height: 100%;
-   padding: 0;
-   margin: 0;
 }
 
 .wrapper {
     display: flex;
-    align-items: center;
-    justify-content: center;
   flex-direction: column;
   max-height: 100%;
 }
