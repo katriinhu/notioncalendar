@@ -2,6 +2,8 @@ body {
     font-family: 'Arial', sans-serif;
     background-color: #fff;
   height: 100%;
+   padding: 0;
+   margin: 0;
 }
 
 .wrapper {
@@ -19,7 +21,7 @@ button::-moz-focus-inner {
 }
 
 #calendari {
-    margin: 20px 0;
+    margin: 0;
     position: relative;
     overflow: hidden;
     height: 274px;
