@@ -129,18 +129,18 @@ td > span:hover {
     text-shadow: inherit;
     padding: 2px 10px 5px 10px;
     line-height: 1px;
-    height: 20px;
-    width: 20px;
+    height: 30px;
+    width: 30px;
     vertical-align: middle;
     border-radius: 100%;
     position: absolute;
-    top: 8px;
+    top: 15px;
 }
 .boto-next { right: 10px; padding-left: 13px; }
 .boto-prev { left: 10px; padding-right: 13px;}
 .boto-next:hover,
 .boto-prev:hover {
-    background: rgba(0,0,0,0.1);
+    background: rgba(0,0,0,0.2);
 }
 button:hover { cursor: pointer; }
 button:focus { outline: none; }
